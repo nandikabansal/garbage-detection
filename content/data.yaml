@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Colab_Notebooks/content/train/images
+val: /content/drive/MyDrive/Colab_Notebooks/content/valid/images
+test: /content/drive/MyDrive/Colab_Notebooks/content/test/images
+
+nc: 5
+names: ['Plastic', 'Cigarette Butt', 'Metal Can', 'Paper', 'Cup']
